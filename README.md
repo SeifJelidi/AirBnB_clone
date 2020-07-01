@@ -25,7 +25,7 @@ models/base_model.py - contains class that is base of all our models.
 
 
 
-models/user.py - contains child class that inherits from BaseModel (from 
+models/user.py - contains child class that inherits from BaseModel (from
 
 models/base_model).
 
